@@ -28,7 +28,7 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 {'buildings' -> 0,
 \ 
 'forest' -> 1,
-\\
+\
 'glacier' -> 2,
 \ 
 'mountain' -> 3,
