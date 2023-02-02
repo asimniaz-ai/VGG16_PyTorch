@@ -2,7 +2,7 @@
 
 This repository includes a VGG16 architecture-based python code with PyTorch. 
 
-#VGG16
+## VGG16
 
 VGG16 is a deep convolutional neural network (CNN) architecture for image classification. It was originally developed by the Visual Geometry Group (VGG) at the University of Oxford and is one of the most widely used CNN architectures for image recognition tasks.
 The architecture of VGG16 consists of the following layers:
@@ -14,7 +14,7 @@ Softmax Activation: The final layer uses a softmax activation function to produc
 
 Overall, the VGG16 architecture is a simple, yet effective model that has been widely used and tested on various image recognition tasks, achieving state-of-the-art results on many benchmark datasets.
 
-#DATASET: 
+## DATASET: 
 [Intel Image Classification](https://www.kaggle.com/datasets/puneet6060/intel-image-classification)
 This is image data of Natural Scenes around the world.
 
